@@ -66,13 +66,13 @@ These insights offer valuable information for traffic management authorities and
 ---
 
 ## Author  
-Hashir Muhammed  
+Deepak Denny  
 Data Science Intern | Prodigy InfoTech  
 
 ---
 
 ## Connect With Me  
-- [LinkedIn](https://www.linkedin.com/in/hashir-muhammed-ba82b3282/)
+- [LinkedIn](https://www.linkedin.com/in/deepak-denny-2618b8372/)
 
 ---
 
